@@ -21,13 +21,13 @@ Undergraduate EEE student at NIT Goa, with coursework and self-study spanning po
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Logisim Evolution](https://img.shields.io/badge/Logisim%20Evolution-323330?style=for-the-badge)
 
 **Simulation & Design**
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-002B5C?style=for-the-badge)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge)
+![Logisim Evolution](https://img.shields.io/badge/Logisim%20Evolution-323330?style=for-the-badge)
 
 **Hardware & Embedded**
 
@@ -63,9 +63,9 @@ Undergraduate EEE student at NIT Goa, with coursework and self-study spanning po
 ### 📊 GitHub Stats
 
 <!-- Replace YOUR_GITHUB_USERNAME below with your actual GitHub username -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-rath125&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-rath125&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-rath125E&theme=radical)
 
 ---
 
