@@ -63,9 +63,9 @@ Undergraduate EEE student at NIT Goa, with coursework and self-study spanning po
 ### 📊 GitHub Stats
 
 <!-- Replace YOUR_GITHUB_USERNAME below with your actual GitHub username -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-rath125&show_icons=true&theme=radical)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-rath125&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=abhishek-rath125&theme=radical)-->
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-rath125&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-rath125&layout=compact&theme=radical)-->
+![GitHub Streak](https://streak-stats.demolab.com/?user=abhishek-rath125&theme=radical)
 
 ---
 
