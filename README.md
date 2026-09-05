@@ -20,8 +20,8 @@ Undergraduate EEE student at NIT Goa, with coursework and self-study spanning po
 **Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Logisim Evolution](https://img.shields.io/badge/Logisim%20Evolution-323330?style=for-the-badge)
 
 **Simulation & Design**
 
