@@ -9,7 +9,7 @@
 
 Undergraduate EEE student at NIT Goa, with coursework and self-study spanning power electronics, control systems, signals & systems, digital electronics, and electrical machines — currently also preparing for **GATE EE**.
 
-- 🔭 Currently exploring: FPGA-adjacent digital design
+- 🔭 Currently exploring: PowerElectronics Simulations
 - 💬 Ask me about: 555-timer PWM design, buck/boost/SEPIC converters, control-systems compensator design
 - ⚡ Fun fact: debugged a boost converter down to a single swapped pin on a 555 timer
 
